@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@13.50.155.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#telegram%3A+%28vorojakshoop_khaf+%29+%28H%29
 trojan://trojan@104.18.12.229:8443?path=%2F&security=tls&host=mav2flyng.pages.dev&type=ws&sni=mav2flyng.pages.dev#Instagram+%3A+%28vorojakshoop.khaf%29+%28I%291
 trojan://auto@104.26.12.54:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#Instagram+%3A+%28vorojakshoop.khaf%29+%28I%292
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#Instagram+%3A+%28vorojakshoop.khaf%29+%28I%293
